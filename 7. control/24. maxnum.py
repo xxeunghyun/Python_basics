@@ -1,6 +1,6 @@
 num = []
 
-for i in range(3):
+for i in range(3): ###from 0 to index number 3 >> 0.1.2
     number = int(input(F"Input number {i+1} : "))
     num.append(number)
 
