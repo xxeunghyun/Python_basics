@@ -6,3 +6,8 @@ num, currency = user.split()
 
 print(float(num) * rate[currency], "원")
 
+"""
+Enter:
+100 달러
+116700.0 원
+"""
